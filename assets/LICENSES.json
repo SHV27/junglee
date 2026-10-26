@@ -1,0 +1,397 @@
+{
+  "note": "Every shipped file must be listed here (tests/unit/licenses.test.ts). Allowed: CC0-1.0, CC-BY-4.0 (CC-BY needs the credits screen).",
+  "files": {
+    "public/art/ambush.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/back.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/badger.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/bg-1.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/bg-2.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/bg-3.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/bigfoot.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/blackhole.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/board.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with FLUX.1 [schnell] (Apache-2.0); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/cat.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/cerberus.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with FLUX.1 [schnell] (Apache-2.0); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/cheetah.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/chupacabra.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/cowboy.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/crew.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/croc.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/dodo.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/dragon.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/dutchman.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/falcon.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/fenrir.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with FLUX.1 [schnell] (Apache-2.0); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/giant.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/gorilla.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/grandmother.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/griffin.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/harpies.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/hero-explorer.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/hero-hunter.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/hero-pilot.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/hero-scientist.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/hydra.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/kappa.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/key.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with FLUX.1 [schnell] (Apache-2.0); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/kraken.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/lion.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/mammoth.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/medusa.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with FLUX.1 [schnell] (Apache-2.0); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/megalodon.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/minotaur.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/mummy.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/nessie.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/phoenix.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/pigeon.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/raptor.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/redpanda.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/rhino.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/roc.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/serpent.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/shiba.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/sphinx.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/tanuki.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/tourist.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/trex.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with FLUX.1 [schnell] (Apache-2.0); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/troll.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/yali.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    },
+    "public/art/yeti.webp": {
+      "pack": "JUNGLEE painted art (v7)",
+      "author": "JUNGLEE studio — generated, then picked and cut out by hand",
+      "license": "CC0-1.0",
+      "source": "https://github.com/SHV27/junglee",
+      "modified": "generated with Juggernaut XL (CreativeML Open RAIL++-M) on the AI Horde; cut out with BiRefNet-lite (MIT); prompts and seeds in scripts/gen-art.mjs"
+    }
+  }
+}

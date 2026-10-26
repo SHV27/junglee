@@ -1,0 +1,39 @@
+{
+  "name": "junglee",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "JUNGLEE: The Cursed Game — a Jumanji-style hot-seat party game for 2–4 friends on one laptop: fate cards, a fogged board, Top Trumps duels against creatures, three hearts, last one alive wins.",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit -p .",
+    "test": "vitest run",
+    "check": "npm run typecheck && npm run test",
+    "e2e": "npm run build && playwright test",
+    "format": "prettier --write .",
+    "sim": "node scripts/sim7.ts"
+  },
+  "dependencies": {
+    "@fontsource/cinzel": "5.3.0",
+    "@fontsource/cinzel-decorative": "5.3.0",
+    "@fontsource/mukta": "5.3.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.64.1",
+    "@types/node": "26.6.5",
+    "fast-check": "4.10.2",
+    "prettier": "3.9.10",
+    "sharp": "0.34.5",
+    "typescript": "7.0.2",
+    "vite": "8.3.4",
+    "vite-plugin-pwa": "2.0.0",
+    "vitest": "5.0.5",
+    "workbox-build": "7.4.1",
+    "workbox-window": "7.4.1"
+  }
+}
